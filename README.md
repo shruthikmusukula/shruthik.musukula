@@ -1,5 +1,6 @@
 ### Hey, I'm Shruthik :v:
 
+![Profile views](https://gpvc.arturio.dev/shruthikmusukula)
 
 ## I'm a College Student, Budding Developer, Committed Teacher, and Blogger! :boom:
 
