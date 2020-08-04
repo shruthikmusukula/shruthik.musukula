@@ -15,7 +15,8 @@
 
 <img align="left" alt="shruthikmusukula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shruthikmusukula&show_icons=true&hide_border=true" />
 
-[//]: # Definitions for this README.md file
-[blog]: https://shrusthoughts.com
-[instagram]: https://www.instagram.com/shruthikmusukula/
-[linkedin]: https://www.linkedin.com/in/shruthikmusukula/
+<!-- Definitions for this README.md file
+  [blog]: https://shrusthoughts.com
+  [instagram]: https://www.instagram.com/shruthikmusukula/
+  [linkedin]: https://www.linkedin.com/in/shruthikmusukula/
+-->
