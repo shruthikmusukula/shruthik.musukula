@@ -3,8 +3,6 @@
 
 ## I'm a College Student, Budding Developer, Committed Teacher, and Hopeful Blogger!
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="shruthikmusukula | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bloglovin.svg" />][blog]
