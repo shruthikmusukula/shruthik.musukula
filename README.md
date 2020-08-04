@@ -1,13 +1,13 @@
-### Hey, I'm Shruthik 👋
+### Hey, I'm Shruthik :v:
 
 
-## I'm a College Student, Budding Developer, Committed Teacher, and Blogger!
+## I'm a College Student, Budding Developer, Committed Teacher, and Blogger! :boom:
 
 ### Connect with me:
 
-[<img align="left" alt="shruthikmusukula | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bloglovin.svg" />][blog]
-[<img align="left" alt="shruthikmusukula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="shruthikmusukula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shruthikmusukula | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bloglovin.svg" />](https://shrusthoughts.com)
+[<img align="left" alt="shruthikmusukula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shruthikmusukula/)
+[<img align="left" alt="shruthikmusukula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shruthikmusukula)
 
 <br />
 
