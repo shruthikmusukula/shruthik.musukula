@@ -1,6 +1,6 @@
 ### Hey, I'm Shruthik :v:
 
-![Profile views](https://gpvc.arturio.dev/shruthikmusukula)
+![](https://komarev.com/ghpvc/?username=shruthikmusukula&color=brightgreen&style=flat&label=Profile+Views)
 
 ## I'm a College Student, Budding Developer, Committed Teacher, and Blogger! :boom:
 
