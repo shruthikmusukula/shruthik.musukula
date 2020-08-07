@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shruthikmusukula&color=brightgreen&style=flat&label=Profile+Views)
 
-## I'm a College Student, Budding Developer, Committed Teacher, and Blogger! :boom:
+## I'm an Undergraduate Student, Budding Developer, Teacher, and Blogger! :boom:
 
 ### Connect with me:
 
