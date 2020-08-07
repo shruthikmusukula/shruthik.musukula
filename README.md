@@ -1,4 +1,5 @@
-### Hey, I'm Shruthik :v:
+Hey, I'm Shruthik! :v:
+=========================
 
 ![](https://komarev.com/ghpvc/?username=shruthikmusukula&color=brightgreen&style=flat&label=Profile+Views)
 
