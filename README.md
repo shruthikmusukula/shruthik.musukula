@@ -11,8 +11,7 @@ Hey, I'm Shruthik! :v:
 * [HomeRoom Website](https://github.com/shruthikmusukula/homeroom-website) (Using React.js)
 
 ### :bulb: What I'm Learning About
-* React.js & Babel
-* Vue.js
+* React.js & Vue.js
 * Python Data Visualization (specifically to analyze meteorological data)
 * C Programming (Building a small OS)
 
