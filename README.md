@@ -3,7 +3,7 @@ Hey, I'm Shruthik! :v:
 
 ![](https://komarev.com/ghpvc/?username=shruthikmusukula&color=brightgreen&style=flat&label=Profile+Views)
 
-#### I'm an Undergraduate Student (University of Illinois Urbana-Champaign), Budding Developer, Teacher, and Blogger! :boom:
+### I'm an Undergraduate Student, Budding Developer, Teacher, and Blogger! :boom:
 
 ### :brain: What I'm Working On
 <hr />
