@@ -12,8 +12,8 @@ Hey, I'm Shruthik! :v:
 
 ### :bulb: What I'm Learning About
 * React.js & Vue.js
+* Python Backend w/ Flask
 * Python Data Visualization (specifically to analyze meteorological data)
-* C Programming (Building a small OS)
 
 ### :mailbox_with_mail: Connect with me:
 [<img align="left" alt="shruthikmusukula | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bloglovin.svg" />](https://shrusthoughts.com)
