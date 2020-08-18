@@ -22,7 +22,7 @@ Hey, I'm Shruthik! :v:
 [<img align="left" alt="shruthikmusukula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shruthikmusukula)
 
 <br />
-***
+---
 
 <img align="left" alt="shruthikmusukula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shruthikmusukula&show_icons=true&hide_border=true" />
 
