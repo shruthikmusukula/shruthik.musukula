@@ -11,8 +11,8 @@ Hey, I'm Shruthik! :v:
 * [HomeRoom Website](https://github.com/shruthikmusukula/homeroom-website) (Using React.js)
 
 ### :bulb: What I'm Learning About
-* React.js & Vue.js
-* Python Backend w/ Flask
+* React.js
+* MongoDB & PyMongo
 * Python Data Visualization (specifically to analyze meteorological data)
 
 ### :mailbox_with_mail: Connect with me:
