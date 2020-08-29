@@ -2,8 +2,9 @@ Hey, I'm Shruthik! :v:
 =========================
 
 ### I'm an Undergraduate Student, Budding Developer, Teacher, and Blogger! :boom:
-
+<!--
 ![](https://komarev.com/ghpvc/?username=shruthikmusukula&color=brightgreen&style=flat&label=Profile+Views)
+-->
 
 ### :brain: What I'm Working On
 * [Distributed Data Analytics Platform (DiDAP)](https://github.com/shruthikmusukula/DiDAP) (Hadoop Programming, Tomcat Java Servlet Applications, Python Pandas, Jupyter)
