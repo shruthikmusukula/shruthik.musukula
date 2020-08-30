@@ -8,7 +8,7 @@ Hey, I'm Shruthik! :v:
 
 ### :brain: What I'm Working On
 * [Distributed Data Analytics Platform (DiDAP)](https://github.com/shruthikmusukula/DiDAP) (Hadoop Programming, Tomcat Java Servlet Applications, Python Pandas, Jupyter)
-* [HomeRoom](https://github.com/shruthikmusukula/homeroom) (Looking into Chrome Extension Development & Firebase)
+* [HomeRoom](https://github.com/shruthikmusukula/homeroom) (Chrome Extension Development)
 * [HomeRoom Website](https://github.com/shruthikmusukula/homeroom-website) (First Exploration into React.js)
 
 ### :bulb: What I'm Learning About
