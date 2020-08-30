@@ -1,7 +1,7 @@
 Hey, I'm Shruthik! :v:
 =========================
 
-### I'm an Undergraduate Student, Budding Developer, Teacher, and Blogger! :boom:
+### I'm an Undergraduate Student, Teacher, and Blogger! :boom:
 <!--
 ![](https://komarev.com/ghpvc/?username=shruthikmusukula&color=brightgreen&style=flat&label=Profile+Views)
 -->
