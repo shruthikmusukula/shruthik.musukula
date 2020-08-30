@@ -9,11 +9,11 @@ Hey, I'm Shruthik! :v:
 ### :brain: What I'm Working On
 * [Distributed Data Analytics Platform (DiDAP)](https://github.com/shruthikmusukula/DiDAP) (Hadoop Programming, Tomcat Java Servlet Applications, Python Pandas, Jupyter)
 * [HomeRoom](https://github.com/shruthikmusukula/homeroom) (Looking into Chrome Extension Development & Firebase)
-* [HomeRoom Website](https://github.com/shruthikmusukula/homeroom-website) (Using React.js)
+* [HomeRoom Website](https://github.com/shruthikmusukula/homeroom-website) (First Exploration into React.js)
 
 ### :bulb: What I'm Learning About
 * React.js
-* MongoDB & PyMongo
+* MongoDB Basics
 
 ### :mailbox_with_mail: Connect with me:
 [<img align="left" alt="shruthikmusukula | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bloglovin.svg" />](https://shrusthoughts.com)
