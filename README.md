@@ -12,8 +12,8 @@ Hey, I'm Shruthik! :v:
 * [HomeRoom Website](https://github.com/shruthikmusukula/homeroom-website) (First Exploration into React.js)
 
 ### :bulb: What I'm Learning About
-* React.js
 * MongoDB Basics
+* C++ & Data Structures
 
 ### :mailbox_with_mail: Connect with me:
 [<img align="left" alt="shruthikmusukula | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bloglovin.svg" />](https://shrusthoughts.com)
