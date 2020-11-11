@@ -1,7 +1,7 @@
 Hey, I'm Shruthik! :v:
 =========================
 
-### I'm an Undergraduate Student, Teacher, and Blogger! :boom:
+### I'm an Undergraduate Student and Blogger! :boom:
 <!--
 ![](https://komarev.com/ghpvc/?username=shruthikmusukula&color=brightgreen&style=flat&label=Profile+Views)
 -->
@@ -10,10 +10,11 @@ Hey, I'm Shruthik! :v:
 * [Distributed Data Analytics Platform (DiDAP)](https://github.com/shruthikmusukula/DiDAP) (Hadoop Programming, Tomcat Java Servlet Applications, Python Pandas, Jupyter)
 * [HomeRoom](https://github.com/shruthikmusukula/homeroom) (Chrome Extension Development)
 * [HomeRoom Website](https://github.com/shruthikmusukula/homeroom-website) (First Exploration into React.js)
+* [Hand Gesture Recognition with OpenCV](https://github.com/Anishmeka/HandGestureRecognitionProject)
 
 ### :bulb: What I'm Learning About
-* MongoDB Basics
-* Object Oriented Data Structure with C++
+* Object Oriented Data Structures with C++
+* AWS Fundamentals
 
 ### :mailbox_with_mail: Connect with me:
 [<img align="left" alt="shruthikmusukula | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bloglovin.svg" />](https://shrusthoughts.com)
