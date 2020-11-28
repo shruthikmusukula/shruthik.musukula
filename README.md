@@ -25,9 +25,9 @@ Hey, I'm Shruthik! :v:
 
 ***
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=shruthikmusukula&count_private=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=shruthikmusukula&count_private=true&hide=stars&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruthikmusukula&layout=compact&exclude_repo=DiDAP)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruthikmusukula&layout=compact&exclude_repo=DiDAP&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Definitions for this README.md file
   [blog]: http://shrusthoughts.com/
