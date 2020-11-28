@@ -29,6 +29,8 @@ Hey, I'm Shruthik! :v:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruthikmusukula&hide=jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shruthikmusukula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Definitions for this README.md file
   [blog]: http://shrusthoughts.com/
   [instagram]: https://www.instagram.com/shruthikmusukula/
