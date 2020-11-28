@@ -27,6 +27,8 @@ Hey, I'm Shruthik! :v:
 
 <img align="left" alt="shruthikmusukula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shruthikmusukula&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruthikmusukula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Definitions for this README.md file
   [blog]: http://shrusthoughts.com/
   [instagram]: https://www.instagram.com/shruthikmusukula/
