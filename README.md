@@ -10,7 +10,7 @@ Hey, I'm Shruthik! :v:
 * [Distributed Data Analytics Platform (DiDAP)](https://github.com/shruthikmusukula/DiDAP) (Hadoop Programming, Tomcat Java Servlet Applications, Python Pandas, Jupyter)
 * [HomeRoom](https://github.com/shruthikmusukula/homeroom) (Chrome Extension Development)
 * [HomeRoom Website](https://github.com/shruthikmusukula/homeroom-website) (First Exploration into React.js)
-* [Hand Gesture Recognition with OpenCV](https://github.com/Anishmeka/HandGestureRecognitionProject)
+* [Tesseract OCR](https://github.com/shruthikmusukula/DigitalTextConverter)
 
 ### :bulb: What I'm Learning About
 * Object Oriented Data Structures with C++
