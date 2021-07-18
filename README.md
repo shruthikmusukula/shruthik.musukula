@@ -19,7 +19,6 @@ Hey, I'm Shruthik! :v:
 * AWS Fundamentals
 
 ### :mailbox_with_mail: Connect with me:
-[<img align="left" alt="shruthikmusukula | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bloglovin.svg" />](https://shrusthoughts.com)
 [<img align="left" alt="shruthikmusukula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shruthikmusukula/)
 [<img align="left" alt="shruthikmusukula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shruthikmusukula)
 
