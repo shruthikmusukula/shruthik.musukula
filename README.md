@@ -1,7 +1,7 @@
 Hey, I'm Shruthik! :v:
 =========================
 
-### I'm an Undergraduate Student and Blogger! :boom:
+### I'm an Undergraduate Student at the University of Illinois! :boom:
 <!--
 ![](https://komarev.com/ghpvc/?username=shruthikmusukula&color=brightgreen&style=flat&label=Profile+Views)
 -->
