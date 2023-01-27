@@ -10,13 +10,12 @@ Hey, I'm Shruthik! :v:
 * [Distributed Data Analytics Platform (DiDAP)](https://github.com/shruthikmusukula/DiDAP) (Hadoop Programming, Tomcat Java Servlet Applications, Python Pandas, Jupyter)
 * [HomeRoom](https://github.com/shruthikmusukula/homeroom) (Chrome Extension Development)
 * [HomeRoom Website](https://github.com/shruthikmusukula/homeroom-website) (First Exploration into React.js)
-
-### :brain: What I'm Working On
 * [Tesseract OCR](https://github.com/shruthikmusukula/DigitalTextConverter) (OCR Algorithms, OpenCV, C++ Cinder Graphics Library)
 
 ### :bulb: What I'm Learning About
-* Object Oriented Data Structures with C++
-* AWS Fundamentals
+* Cloud Computing Applications
+* Parallel Programming with CUDA
+* Artificial Intelligence
 
 ### :mailbox_with_mail: Connect with me:
 [<img align="left" alt="shruthikmusukula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shruthikmusukula/)
